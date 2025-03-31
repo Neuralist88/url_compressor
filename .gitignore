@@ -1,0 +1,8 @@
+*.pyc
+*__init__.py
+.black
+.env
+.flake8
+.isort.cfg
+app/database/init_db.py
+migrations/task_description.ipynb
